@@ -77,7 +77,7 @@ const PublicLeadForm: React.FC<PublicLeadFormProps> = ({ leadCrud, userProfile }
         <div className="flex items-center justify-center min-h-screen bg-brand-bg p-4">
             <div className="w-full max-w-lg p-8 space-y-6 bg-brand-surface rounded-2xl shadow-lg border border-brand-border">
                 <div className="text-center space-y-3">
-                    <h1 className="text-2xl font-bold text-brand-text-light">Hai! Terimakasih telah menghubungi #venapictures</h1>
+                    <h1 className="text-2xl font-bold text-brand-text-light">Hai! Terimakasih telah menghubungi Honesty Pictures</h1>
                     <p className="text-brand-text-primary">Perkenalkan aku Nina! (๑•ᴗ•๑)♡</p>
                     <p className="text-sm text-brand-text-secondary">Untuk informasi mengenai pricelist dan availability, mohon mengisi data berikut ya!</p>
                 </div>
